@@ -6,8 +6,8 @@
 	</head>
 	
 	<body>
-		<h1>Conexion a tabla Datos personales</h1>
-		<h5>Busca nombre</h5>
+		<h1>Conexion a tabla articulos</h1>
+		<h5>Busca pais</h5>
 		<form action="pagina_busqueda.php" method="get">
 		<label>Buscar: <input type="text" name ="buscar"></label>
 		<input type="submit" name="enviando" value="buscar">
